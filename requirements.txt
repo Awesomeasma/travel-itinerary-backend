@@ -1,0 +1,7 @@
+This file lists the Python libraries our project needs.
+
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+
